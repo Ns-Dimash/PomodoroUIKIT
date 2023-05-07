@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alprogressview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alxrguz/ALProgressView",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d6ed1b0659be6d185cecaa4fcc55f3746191b564"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "58320fe80522414bf3a7e24c88123581dc586752"
+      }
+    }
+  ],
+  "version" : 2
+}
